@@ -1,10 +1,8 @@
 # pizzaapp
 
-<<<<<<< HEAD
 A Flutter application.
 =======
 The new Flutter application.
->>>>>>> cba7d74952f932b58f7e09e0791ef078388f3b2b
 
 ## Getting Started
 
