@@ -1,6 +1,6 @@
 # pizzaapp
 
-A new Flutter application.
+The new Flutter application.
 
 ## Getting Started
 
